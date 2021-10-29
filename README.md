@@ -1,6 +1,6 @@
 # Matem-tica-Discreta-TP1
 <p align="center">
-  <img height="80px" width="420px" src="https://user-images.githubusercontent.com/44876887/139503388-42d747fe-fe50-4159-a5e0-fc87bf589f76.png">
+  <img height="300px" width="600px" src="https://www.ismai.pt/SiteCollectionImages/logo_ismai_site_social.png">
 </p>
 **Primeiro ponto de avaliação na cadeira de Matemática Discreta do curso TIWM 2021/2022**
 
