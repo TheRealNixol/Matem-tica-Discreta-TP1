@@ -1,5 +1,7 @@
 # Matem-tica-Discreta-TP1
-![This is an image](https://user-images.githubusercontent.com/44876887/139503388-42d747fe-fe50-4159-a5e0-fc87bf589f76.png)
+<p align="center">
+  <img width="460" height="300" src="(https://user-images.githubusercontent.com/44876887/139503388-42d747fe-fe50-4159-a5e0-fc87bf589f76.png">
+</p>
 **Primeiro ponto de avaliação na cadeira de Matemática Discreta do curso TIWM 2021/2022**
 
 >Dicas de utilização:
