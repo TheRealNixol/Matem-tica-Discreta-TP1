@@ -3,6 +3,6 @@
 **Primeiro ponto de avaliação na cadeira de Matemática Discreta do curso TIWM 2021/2022**
 
 >1. Dicas de utilização:
-    *1) O programa trabalho.py deve ser executado com uma versão de python =< 3.9;
-    *2) A utilização foi visionada com um terminal compatível com Rich Text encoding e que suporte comandos bash (Git Bash, Raw Linux Terminal ...). O grupo recomenda a utilização de gitbash para uma melhor experiencia do trabalho desenvolvido;
-    *3) Navegação dentro do programa é totalmente executada através de inputs requesitados ao utilizador;
+    -1) O programa trabalho.py deve ser executado com uma versão de python =< 3.9;
+    -2) A utilização foi visionada com um terminal compatível com Rich Text encoding e que suporte comandos bash (Git Bash, Raw Linux Terminal ...). O grupo recomenda a utilização de gitbash para uma melhor experiencia do trabalho desenvolvido;
+    -3) Navegação dentro do programa é totalmente executada através de inputs requesitados ao utilizador;
